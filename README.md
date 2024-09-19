@@ -16,3 +16,5 @@ Algumas categorias de serviços disponíveis na azure:
 Datacenters (Regiões) Azure pelo mundo:
 
 ![](https://raw.githubusercontent.com/henriquebjr/az900-dio/main/resources/azure_datacenters.png)
+
+Explore também: [Microsoft Datacenters](https://datacenters.microsoft.com/globe/explore/)
