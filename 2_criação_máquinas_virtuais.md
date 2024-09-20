@@ -23,4 +23,16 @@
 12. Informe os demais campos.
 13. Clique em próximo.
 14. Selecione o tipo de armazenamento.
-15. Clique em "Revisar + criar", e caso esteja tudo certo conforme esperado, clique em "Criar".
+15. Recomendação: marque a opção "Excluir com VM" para não deixar discos perdidos gerando custos financeiros.
+16. Clique em próximo.
+17. Selecione uma rede virtual existente ou crie uma nova.
+18. Recomendação: marque a opção "Excluir o ip público e a NIC quando a VM for excluída" para não continuar gerando custos quando a VM for excluída.
+19. Clique em próximo para acesso passo de "Gerenciamento".
+20. Selecione o tipo de autenticação e configuração desligamento automático.
+21. Informe se deseja habilitar o backup. Por padrão, o backup é executado uma vez ao dia.
+22. Também possível configurar notificações e alertas de monitoramento.
+23. Clique em próximo.
+24. No passo "Avançado" é possível configurar extensões, como funcionalidades extras.
+25. Clique em próximo.
+26. No passo "Marcas" é possível informar identificadores para facilitar no manuseio do recursos, principalmente para identificar origem de custos.
+27. Clique em "Revisar + criar", e caso esteja tudo certo conforme esperado, clique em "Criar".
