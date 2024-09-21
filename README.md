@@ -9,6 +9,7 @@ Projetos do curso (bootcamp) de AZ-900 da Dio
 4. [Criar um grupo de recursos](https://github.com/henriquebjr/az900-dio/blob/main/4_criar_grupo_de_recursos.md)
 5. [Criar rede virtual](https://github.com/henriquebjr/az900-dio/blob/main/5_criar_rede_virtual.md)
 6. [Criar área virtual de trabalho](https://github.com/henriquebjr/az900-dio/blob/main/6_criar_área_virtual_de_trabalho.md)
+7. [Criar aplicativo de funções](https://github.com/henriquebjr/az900-dio/blob/main/7_criar_aplicativo_de_funções.md)
 
 Algumas categorias de serviços disponíveis na azure:
 
