@@ -20,4 +20,14 @@ Escolha LRS apenas para ambientes de testes e fique com GRS ou ZRS para a maiori
 ![](https://raw.githubusercontent.com/henriquebjr/az900-dio/main/resources/criar_conta_armazenamento.png)
 
 11. Clique em próximo.
-12. 
+12. Na aba "Avançado" informe as preferências de Segurança, Protocolos de Acesso, Armazenamento de Blobs e Arquivos do Azure. Note que em "Camada de Acesso" há as opções de Quente ou Frio, sendo quente mais indicado para usos normal de aplicação e frio para backups.
+13. Clique em próximo.
+14. Em "Rede" configure as preferências de acesso. Pode manter as configurações sugeridas.
+15. Clique em próximo.
+16. Em "Proteção de dados" talvez seja uma boa opção desmarcar as opções "Habilitar a exclusão temporária para blobs" e "Habilitar a exclusão temporária para contêineres", caso não seja um ambiente de produção.
+17. Clique em próximo.
+18. Configurações de criptografia pode deixar as configurações sugeridas.
+19. Clique em próximo.
+20. Adicione as marcas (tags) desejadas.
+21. Clique em avançar.
+22. Caso esteja tudo correto, clique em Criar.
