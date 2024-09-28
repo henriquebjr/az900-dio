@@ -1,0 +1,19 @@
+# Criar contas de armazenamento
+
+1. Acesse o portal.
+2. Acesse no menu esquerdo "Todos os serviços".
+3. Na caixa de busca, informe "contas de armazenamento".
+4. Clique em "Contas de armazenamento".
+5. Clique em "Criar".
+6. Informe Assinatura e Grupo de recursos.
+7. Informe o "Nome da conta de armazenamento". Deverá conter apenas números e letras minúsculas, e deverá ser um identificador único (ninguém poderá estar usando a mesma combinação).
+8. Informe uma Região.
+9. Informe o "Desempenho". O "standard" é o mais comum, sendo "premium" fazendo sentido apenas casos em que a demanda de desempenho é muito alta.
+Obs: premium cobra a alocação total, mesmo que não esteja utilizando.
+10. Selecione a redundância desejada:
+- LRS (redundância local): 3 cópias no mesmo datacenter.
+- GRS (redundância geográfica): 3 cópias no mesmo datacenter mais 3 cópias em um datacenter de uma região diferente.
+- ZRS (redundância de zona): 3 cópias em diferentes datacenters da mesma região.
+- GZRS (redundância geográfica e de zona): 3 cópias em diferentes datacenters da mesma região mais 3 cópias de diferentes datacenters de uma segunda região.
+Escolha LRS apenas para ambientes de testes e fique com GRS ou ZRS para a maioria dos casos.
+11. 
