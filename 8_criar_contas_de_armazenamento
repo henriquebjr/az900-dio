@@ -16,4 +16,8 @@ Obs: premium cobra a alocação total, mesmo que não esteja utilizando.
 - ZRS (redundância de zona): 3 cópias em diferentes datacenters da mesma região.
 - GZRS (redundância geográfica e de zona): 3 cópias em diferentes datacenters da mesma região mais 3 cópias de diferentes datacenters de uma segunda região.
 Escolha LRS apenas para ambientes de testes e fique com GRS ou ZRS para a maioria dos casos.
-11. 
+
+![](https://raw.githubusercontent.com/henriquebjr/az900-dio/main/resources/criar_conta_armazenamento.png)
+
+11. Clique em próximo.
+12. 
