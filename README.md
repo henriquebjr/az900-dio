@@ -12,6 +12,7 @@ Projetos do curso (bootcamp) de AZ-900 da Dio
 7. [Criar aplicativo de funções](https://github.com/henriquebjr/az900-dio/blob/main/7_criar_aplicativo_de_funções.md)
 8. [Criar contas de armazenamento](https://github.com/henriquebjr/az900-dio/blob/main/8_criar_contas_de_armazenamento.md)
 9. [Segurança e identidade](https://github.com/henriquebjr/az900-dio/blob/main/9_segurança_e_identidade.md)
+10. [Otimização de custos](https://github.com/henriquebjr/az900-dio/blob/main/10_otimização_de_custos.md)
 
 Algumas categorias de serviços disponíveis na azure:
 
