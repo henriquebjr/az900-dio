@@ -15,6 +15,7 @@ Projetos do curso (bootcamp) de AZ-900 da Dio
 10. [Otimização de custos](https://github.com/henriquebjr/az900-dio/blob/main/10_otimização_de_custos.md)
 11. [Governança e conformidade](https://github.com/henriquebjr/az900-dio/blob/main/11_governança_e_conformidade.md)
 12. [Ferramentas de implantação](https://github.com/henriquebjr/az900-dio/blob/main/12_ferramentas_de_implantação.md)
+13. [Monitoramento inteligente](https://github.com/henriquebjr/az900-dio/blob/main/13_monitoramento_inteligente.md)
 
 Algumas categorias de serviços disponíveis na azure:
 
